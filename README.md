@@ -4,11 +4,11 @@
 Install Golang from https://go.dev/dl/
 
 
-Git Clone https://github.com/saedarm/Scorpiten
+Copy scorp_main.go
 
 
-OR Run locally with copying file
 
+I recommend a fresh install
 
 Open Git Bash or CMD
 
@@ -20,7 +20,8 @@ cd yourgame
 
 code . within terminal to open vs code (Or open created directory in any ide)
 
-Within Directory create main.go file
+Copy scorp_main.go github into new go file in your directory that you can name anything you'd like
+
 
 
 Run command : Go Get github.com/hajimehoshi/ebiten/v2
